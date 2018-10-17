@@ -11,6 +11,7 @@ Python
 ## Tools 
 ```
 Jupyter Notebook using Anaconda
+Weka V-3.8.2
 ```
 ## Project Outline
 
